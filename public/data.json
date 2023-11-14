@@ -1,0 +1,73 @@
+[
+  
+    {
+        "productName": "Cobras Softball Jerseys",
+        "imageUrl": "https://www.khejurbd.net/dl-custom/1_A.webp",
+        "productPrice": 49.99,
+        "productDescription": "Description for Product D",
+        "productColor": "Black"
+    },
+    {
+        "productName": "Youth Association Jerseys",
+        "imageUrl": "https://www.khejurbd.net/dl-custom/2_A.webp",
+        "productPrice": 59.99,
+        "productDescription": "Description for Product E",
+        "productColor": "Purple"
+    },
+    {
+        "productName": "Thunder Baseball Jerseys",
+        "imageUrl": "https://www.khejurbd.net/dl-custom/4_A.webp",
+        "productPrice": 69.99,
+        "productDescription": "Description for Product F",
+        "productColor": "Orange"
+    },
+    {
+        "productName": " Baseball All-Stars Jerseys",
+        "imageUrl": "https://www.khejurbd.net/dl-custom/4_A_1.webp",
+        "productPrice": 79.99,
+        "productDescription": "Description for Product G",
+        "productColor": "Pink"
+    },
+    {
+        "productName": "Hillsboro Volleyball Jersey",
+        "imageUrl": "https://www.khejurbd.net/dl-custom/long%20front.webp",
+        "productPrice": 89.99,
+        "productDescription": "Description for Product H",
+        "productColor": "Silver"
+    },
+    {
+        "productName": "Basketball Jersey",
+        "imageUrl": "https://www.khejurbd.net/dl-custom/Mockup.webp",
+        "productPrice": 99.99,
+        "productDescription": "Description for Product I",
+        "productColor": "Gold"
+    },
+    {
+        "productName": "Softball Jersey",
+        "imageUrl": "https://www.khejurbd.net/dl-custom/Pink.webp",
+        "productPrice": 109.99,
+        "productDescription": "Description for Product J",
+        "productColor": "Black"
+    },
+    {
+        "productName": "Made2Ball Softball Jersey",
+        "imageUrl": "https://www.khejurbd.net/dl-custom/V1.webp",
+        "productPrice": 109.99,
+        "productDescription": "Description for Product J",
+        "productColor": "Black"
+    },
+    {
+        "productName": "Made2Ball Softball Jersey",
+        "imageUrl": "https://www.khejurbd.net/dl-custom/V2.webp",
+        "productPrice": 109.99,
+        "productDescription": "Description for Product J",
+        "productColor": "Black"
+    },
+    {
+        "productName": "Short Sleeve Hoodies",
+        "imageUrl": "https://www.khejurbd.net/dl-custom/WISD.webp",
+        "productPrice": 109.99,
+        "productDescription": "Description for Product J",
+        "productColor": "Black"
+    }
+]

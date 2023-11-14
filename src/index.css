@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+.fontSecondary {
+  font-family: 'Dancing Script', cursive;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.text-gradient{
+  @apply text-transparent bg-clip-text bg-gradient-to-r from-primary to-secondary
+}
+
+.navActive{
+  @apply text-primary pt-3 pb-1 mr-2 font-bold hover:bg-transparent hover:text-primary text-base border-b rounded-none border-primary transition-all duration-500
+}
+
+.navDefault{
+  @apply  pt-3 pb-1 mr-2 font-bold hover:bg-transparent hover:text-primary text-base
+}
+
+.btnPrimary{
+@apply px-7 py-2 border rounded-r-full rounded-l-full border-primary bg-primary text-white hover:border-primary hover:bg-white hover:text-primary transition-all duration-500 cursor-pointer  disabled:opacity-40 cursor-not-allowed
+}
+
+.btnSecondary{
+  @apply px-7 py-2 border rounded-r-full rounded-l-full border-primary bg-transparent text-white hover:bg-primary hover:text-white transition-all duration-500 cursor-pointer disabled:opacity-40 cursor-not-allowed
+}
+.ff{
+  font-family: 'Quicksand', sans-serif;
+}
+.inputField {
+  @apply w-full px-6 py-2 rounded-md bg-primary bg-opacity-20 focus:outline focus:outline-accent disabled:opacity-70 disabled:cursor-not-allowed placeholder:text-sm placeholder:text-white
+}
